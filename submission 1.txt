@@ -1,0 +1,9 @@
+- Bot yang dibuat harus berbeda dengan sample project yang dijelaskan di Academy ini. (sudah)
+- Bot yang dibuat harus memiliki konsep dan alur yang jelas, sehingga dapat digunakan dengan mudah. (sudah)
+- Bot dapat menyapa user yang telah menambahkannya sebagai teman / menambahkan ke group. (sudah)
+- Bot dapat memperkenalkan diri, menjelaskan bagaimana penggunaannya, dan apa fungsinya. (sudah)
+- Bot dapat menginformasikan dan memberi saran apabila ada kesalahan kata kunci / keywords pesan yang dikirim user. (sudah)
+
+Bot's LINE@ ID : @rxy4983l
+Bot's Channel ID : 1618184196
+https://botsamkon.herokuapp.com/index.php/webhook
